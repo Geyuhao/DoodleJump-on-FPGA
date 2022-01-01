@@ -15,4 +15,3 @@ DE2-115
 ## Video demo
 https://www.bilibili.com/video/BV1AS4y1T7gG/
 
-![image](https://github.com/Geyuhao/ECE-385/blob/main/pic.png）
