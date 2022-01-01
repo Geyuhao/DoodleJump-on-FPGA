@@ -13,3 +13,4 @@ Quartus Prime 18.1 Lite Edition
 DE2-115
 
 ## Video demo
+https://www.bilibili.com/video/BV1AS4y1T7gG/
