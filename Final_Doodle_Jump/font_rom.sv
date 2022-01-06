@@ -4,6 +4,7 @@
 //      Fall 2021                                                        --
 //                                                                       --
 //      This module creates ram in the on chip mempory for display use   --
+//      No longer used in the final project, just for debugging purpose  --
 //      UIUC ECE Department                                              --
 //-------------------------------------------------------------------------
 

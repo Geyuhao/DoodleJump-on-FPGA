@@ -49,7 +49,7 @@ module collision ( input     Clk,                // 50 MHz clock
 endmodule
 
 
-// This module is used to detect if a ball touch a stair
+// This module is used to detect if the doodler step on the monter or touch by monster
 module doo_mons ( input     Clk,                // 50 MHz clock
                              Reset,              // Active-high reset signal
                              frame_clk,          // The clock indicating a new frame (~60Hz)

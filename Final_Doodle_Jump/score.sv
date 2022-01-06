@@ -1,12 +1,12 @@
 //-------------------------------------------------------------------------
-//      score.sv                                                         --
-//      Created by Yuhao Ge & Haina Lou                                  --
+//      doodle_state.sv                                                  --
+//      Created by Lai Xinyi & Yuqi Yu.                                  --
+//      Modified by Yuhao Ge & Haina Lou                                 --
 //      Fall 2021                                                        --
 //                                                                       --
 //      Recode the total distance of the doodle, and make it show on the screen.    
 //      UIUC ECE Department                                              --
 //-------------------------------------------------------------------------
-
 
 
 module score ( 	input		Clk,                // 50 MHz clock

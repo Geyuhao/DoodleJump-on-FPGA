@@ -1,11 +1,13 @@
 //-------------------------------------------------------------------------
-//      digit_font.sv                                                    --
-//      Created by Yuhao Ge & Haina Lou                                  --
+//      doodle_state.sv                                                  --
+//      Created by Lai Xinyi & Yuqi Yu.                                  --
+//      Modified by Yuhao Ge & Haina Lou                                 --
 //      Fall 2021                                                        --
 //                                                                       --
 //      Serves as the sub-module which helps to show the digit on the screen 
 //      UIUC ECE Department                                              --
 //-------------------------------------------------------------------------
+
 
 module digit_font ( input [10:0]	addr,
 						output [7:0]	data

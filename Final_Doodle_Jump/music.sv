@@ -4,7 +4,7 @@
 //      Cited by Yuhao Ge (2021.12.28)                                   --
 //      Fall 2021                                                        --
 //                                                                       --
-//      This mopdule helps to control the sound play of the board        --
+//      This module helps to control the sound play of the board        --
 //      UIUC ECE Department                                              --
 //-------------------------------------------------------------------------
 
