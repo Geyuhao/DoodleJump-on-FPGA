@@ -1,4 +1,4 @@
-# ECE 385 Final Project
+# ECE 385 Final Project (Warning: Do Not Plagiarize)
 We made a Doodle Jump on FPGA! 
 
 This is the final project of the course ECE 385 (UIUC ECE department)
