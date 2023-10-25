@@ -13,7 +13,7 @@ Final project for ECE 385 at UIUC ECE Department.
 
 ## Demo
 - [Video Demo](https://www.bilibili.com/video/BV1AS4y1T7gG/)
-![Demo Image](https://github.com/Geyuhao/ECE-385/blob/main/pic.png)
+![Demo Image](./img/pic.png)
 
 ---
 
@@ -32,8 +32,8 @@ This project replicates the game [Doodle Jump](https://en.wikipedia.org/wiki/Doo
 - 300x480 pixel displays
 - Triggered by "Enter" key
 
-![Start Frame](start.png)
-![End Frame](dead.png)
+![Start Frame](./img/start.png)
+![End Frame](./img/dead.png)
 
 ### Doodler
 - Controlled by "A" and "D"
