@@ -8,7 +8,7 @@ Final project for ECE 385 at UIUC ECE Department.
 - Haina Lou
 
 ## Technical Specifications
-- **Platform**: Quartus Prime 18.1 Lite Edition
+- **Stair**: Quartus Prime 18.1 Lite Edition
 - **FPGA Board**: DE2-115
 
 ## Demo
@@ -18,7 +18,7 @@ Final project for ECE 385 at UIUC ECE Department.
 ---
 
 ## Overview
-This project replicates the game [Doodle Jump](https://en.wikipedia.org/wiki/Doodle_Jump) on a DE2-115 board. The game features a character, "The Doodler," navigating through platforms while avoiding obstacles and monsters. Controls are mapped to keys "A" and "D" for lateral movement and "← ↑ →" for shooting.
+This project replicates the game [Doodle Jump](https://en.wikipedia.org/wiki/Doodle_Jump) on a DE2-115 board. The game features a character, "The Doodler," navigating through Stairs while avoiding obstacles and monsters. Controls are mapped to keys "A" and "D" for lateral movement and "← ↑ →" for shooting.
 
 ---
 
@@ -39,25 +39,26 @@ This project replicates the game [Doodle Jump](https://en.wikipedia.org/wiki/Doo
 - Controlled by "A" and "D"
 - Dynamic appearance based on actions
 
-<figure>
-<img src="./img/doodlel.png" width="30%" />
-<img src="./img/doodleu.png" width="30%" />
-<img src="./img/doodler.png" width="30%" />
-<figcaption>Go right</figcaption>
-</figure>
+| ![doodlel](./img/doodlel.png) | ![doodleu](./img/doodleu.png) | ![doodler](./img/doodler.png) |
 
-### Platforms
-- 14 initial platforms
+
+
+### Stairs
+- 14 initial Stairs
 - Dynamic generation as game progresses
 
-![Platform](./img/stair.png)
+<p align="center">
+  <img src="./img/stair.png" />
+</p>
 
 ### Tools & Monsters
 - Randomly generated
 - Interact with the Doodler
 
-![Spring](./img/tool1.png)
-![Monster](./img/monster1.png)
+<p align="center">
+  <img src="./img/tool1.png" />
+  <img src="./img/monster1.png" />
+</p>
 
 ### Bullets & Score
 - Controlled by "← ↑ →"
@@ -102,7 +103,7 @@ Power: 532.34mW
 
 ## Known Bugs
 1. Doodler stuck at boundaries.
-2. Sudden appearance of springs and moving platforms.
+2. Sudden appearance of springs and moving Stairs.
 3. Overlapping stair graphics.
 4. Score display errors beyond 99.
 
