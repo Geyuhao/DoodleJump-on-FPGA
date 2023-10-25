@@ -40,9 +40,9 @@ This project replicates the game [Doodle Jump](https://en.wikipedia.org/wiki/Doo
 - Dynamic appearance based on actions
 
 <figure>
-<img src="doodlel.png" width="30%" />
-<img src="doodleu.png" width="30%" />
-<img src="doodler.png" width="30%" />
+<img src="./img/doodlel.png" width="30%" />
+<img src="./img/doodleu.png" width="30%" />
+<img src="./img/doodler.png" width="30%" />
 <figcaption>Go right</figcaption>
 </figure>
 
@@ -50,21 +50,21 @@ This project replicates the game [Doodle Jump](https://en.wikipedia.org/wiki/Doo
 - 14 initial platforms
 - Dynamic generation as game progresses
 
-![Platform](stair.png)
+![Platform](./img/stair.png)
 
 ### Tools & Monsters
 - Randomly generated
 - Interact with the Doodler
 
-![Spring](tool1.png)
-![Monster](monster1.png)
+![Spring](./img/tool1.png)
+![Monster](./img/monster1.png)
 
 ### Bullets & Score
 - Controlled by "← ↑ →"
 - Displayed on the upper left corner
 
-![Shoot](shot.png)
-![Score](70.png)
+![Shoot](./img/shot.png)
+![Score](./img/70.png)
 
 ### Sound
 - Looping background music
@@ -74,7 +74,7 @@ This project replicates the game [Doodle Jump](https://en.wikipedia.org/wiki/Doo
 ## Architecture
 
 ### Block Diagram
-![Block Diagram](final_block_diagram.png)
+![Block Diagram](./img/final_block_diagram.png)
 
 ### General Flow
 - Hardware-centric design
@@ -84,7 +84,7 @@ This project replicates the game [Doodle Jump](https://en.wikipedia.org/wiki/Doo
 ---
 
 ## State Machine
-![State Diagram](state.jpg)
+![State Diagram](./img/state.jpg)
 
 ---
 
